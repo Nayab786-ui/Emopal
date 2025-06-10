@@ -1,0 +1,2 @@
+# Emopal
+Emotional AI app
